@@ -14,7 +14,7 @@
 
 
 #define DEVICE_TYPE 16
-#define FIRMWARE_VERSION "1.1.1"
+#define FIRMWARE_VERSION "1.1.2"
 
 
 //
@@ -23,7 +23,7 @@
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(115200);
 
   //
   // Initialize the fw-box core (early stage)

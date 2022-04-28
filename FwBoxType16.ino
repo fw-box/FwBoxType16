@@ -14,7 +14,7 @@
 
 
 #define DEVICE_TYPE 16
-#define FIRMWARE_VERSION "1.1.13"
+#define FIRMWARE_VERSION "1.1.14"
 
 
 //
